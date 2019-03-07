@@ -1,0 +1,11 @@
+2019-03-07 14:41:17,328-BasePage-INFO-long_press success
+2019-03-07 14:41:18,218-BasePage-INFO-Success The element was click
+2019-03-07 14:41:18,219-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/sortBtn')
+2019-03-07 14:41:22,527-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/note_time')
+2019-03-07 14:41:25,221-BasePage-INFO-移动成功
+2019-03-07 14:41:30,569-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x000000000363A780>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/toolbar_ok')元素
+2019-03-07 14:41:30,922-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:41:30,922-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 14:41:36,031-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x000000000363A780>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/toolbar_ok')元素
+2019-03-07 14:41:36,405-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:41:36,405-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'

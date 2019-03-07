@@ -1,0 +1,17 @@
+
+platformName: Android
+#platformName:IOS
+
+
+platformVersion: 4.4.2
+#platformVersion:4.4.5
+
+#app:todolist.apk
+app: znbwl.apk
+
+#appPackage:com.example.todolist
+appPackage: com.pdswp.su.smartcalendar
+
+#appActivity:com.example.todolist.LoginActivity
+appActivity: com.pdswp.su.smartcalendar.WelcomeNote
+

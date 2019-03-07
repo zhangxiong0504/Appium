@@ -1,0 +1,79 @@
+2019-03-06 21:04:20,366-BasePage-INFO-Success The element was click
+2019-03-06 21:04:22,540-BasePage-INFO-Success The element was click
+2019-03-06 21:04:24,214-BasePage-INFO-Success The element was click
+2019-03-06 21:04:32,848-BasePage-INFO-输入的内容zxc
+2019-03-06 21:04:40,932-BasePage-INFO-输入的内容123456@qq.com
+2019-03-06 21:04:48,946-BasePage-INFO-输入的内容zx980504
+2019-03-06 21:04:49,767-BasePage-INFO-Success The element was click
+2019-03-06 21:04:51,277-BasePage-ERROR-<app_objects.znbwl_register.Register object at 0x0000000003783B00>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-06 21:04:51,685-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:05:05,949-BasePage-INFO-Success The element was click
+2019-03-06 21:05:08,069-BasePage-INFO-Success The element was click
+2019-03-06 21:05:09,557-BasePage-INFO-Success The element was click
+2019-03-06 21:05:17,895-BasePage-INFO-输入的内容zxc
+2019-03-06 21:05:26,016-BasePage-INFO-输入的内容123456@qq.com
+2019-03-06 21:05:33,794-BasePage-INFO-输入的内容zx980504
+2019-03-06 21:05:34,553-BasePage-INFO-Success The element was click
+2019-03-06 21:05:36,107-BasePage-ERROR-<app_objects.znbwl_register.Register object at 0x0000000003771710>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-06 21:05:36,517-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:05:57,311-BasePage-INFO-Success The element was click
+2019-03-06 21:05:57,973-BasePage-INFO-Success The element was click
+2019-03-06 21:06:07,993-BasePage-INFO-输入的内容805135162@qq.com
+2019-03-06 21:06:15,745-BasePage-INFO-输入的内容zx980504
+2019-03-06 21:06:16,622-BasePage-INFO-Success The element was click
+2019-03-06 21:06:18,362-BasePage-INFO-找到的文本智能备忘录
+2019-03-06 21:06:18,566-BasePage-INFO-Success The element was click
+2019-03-06 21:06:20,713-BasePage-INFO-Success The element was click
+2019-03-06 21:06:22,408-BasePage-INFO-Success The element was click
+2019-03-06 21:06:40,107-BasePage-INFO-Success The element was click
+2019-03-06 21:06:42,256-BasePage-INFO-Success The element was click
+2019-03-06 21:06:51,661-BasePage-INFO-输入的内容80513516562@qq.com
+2019-03-06 21:06:59,893-BasePage-INFO-输入的内容zx980504
+2019-03-06 21:07:00,775-BasePage-INFO-Success The element was click
+2019-03-06 21:07:01,458-BasePage-INFO-找到的文本云平台登录
+2019-03-06 21:07:12,846-BasePage-INFO-Success The element was click
+2019-03-06 21:07:14,798-BasePage-INFO-Success The element was click
+2019-03-06 21:07:16,229-BasePage-INFO-找到的文本云平台登录
+2019-03-06 21:07:16,318-BasePage-ERROR-<app_objects.znbwl_alter.Alter object at 0x0000000003771898>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-06 21:07:16,744-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:07:16,744-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-06 21:07:23,928-BasePage-INFO-输入的内容zx980504
+2019-03-06 21:07:24,720-BasePage-INFO-Success The element was click
+2019-03-06 21:07:25,477-BasePage-INFO-找到的文本云平台登录
+2019-03-06 21:07:36,652-BasePage-INFO-Success The element was click
+2019-03-06 21:07:38,375-BasePage-INFO-Success The element was click
+2019-03-06 21:07:40,140-BasePage-INFO-找到的文本添加备忘信息
+2019-03-06 21:07:40,344-BasePage-INFO-Success The element was click
+2019-03-06 21:07:48,460-BasePage-INFO-输入的内容donghao
+2019-03-06 21:07:49,636-BasePage-INFO-Success The element was click
+2019-03-06 21:07:51,270-BasePage-INFO-Success The element was click
+2019-03-06 21:07:52,805-BasePage-INFO-找到的文本添加备忘信息
+2019-03-06 21:07:52,969-BasePage-INFO-Success The element was click
+2019-03-06 21:08:01,228-BasePage-INFO-输入的内容sdadas
+2019-03-06 21:08:02,154-BasePage-INFO-Success The element was click
+2019-03-06 21:08:11,732-BasePage-ERROR-<app_objects.znbwl_search.Search object at 0x0000000003783710>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/toolbar_search')元素
+2019-03-06 21:08:12,230-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:12,230-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-06 21:08:13,290-BasePage-ERROR-<app_objects.znbwl_search.Search object at 0x0000000003783710>页面中找不到('id', 'android:id/search_src_text')元素
+2019-03-06 21:08:13,820-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:13,821-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-06 21:08:13,945-BasePage-ERROR-<app_objects.znbwl_search.Search object at 0x0000000003783710>页面中找不到('id', 'android:id/search_src_text')元素
+2019-03-06 21:08:14,399-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:14,399-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-06 21:08:27,836-BasePage-INFO-long_press success
+2019-03-06 21:08:28,269-BasePage-INFO-Success The element was click
+2019-03-06 21:08:28,790-BasePage-INFO-移动成功
+2019-03-06 21:08:29,405-BasePage-INFO-Success The element was click
+2019-03-06 21:08:40,584-BasePage-ERROR-<app_objects.znbwl_archive.Archive object at 0x0000000003771E10>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/note_title')元素
+2019-03-06 21:08:41,369-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:41,369-BasePage-ERROR-long_press failure
+2019-03-06 21:08:42,065-BasePage-ERROR-<app_objects.znbwl_archive.Archive object at 0x0000000003771E10>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menu_archive')元素
+2019-03-06 21:08:42,882-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:42,883-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-06 21:08:45,052-BasePage-INFO-Success The element was click
+2019-03-06 21:08:46,842-BasePage-INFO-Success The element was click
+2019-03-06 21:08:48,477-BasePage-INFO-找到的文本归档
+2019-03-06 21:08:51,790-BasePage-INFO-滑动成功
+2019-03-06 21:08:56,894-BasePage-ERROR-<app_objects.znbwl_archive.Archive object at 0x0000000003771E10>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menu')元素
+2019-03-06 21:08:57,269-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-06 21:08:57,269-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'

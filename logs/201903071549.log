@@ -1,0 +1,85 @@
+2019-03-07 15:49:52,685-BasePage-INFO-Success The element was click
+2019-03-07 15:49:54,846-BasePage-INFO-Success The element was click
+2019-03-07 15:49:56,368-BasePage-INFO-Success The element was click
+2019-03-07 15:50:04,506-BasePage-INFO-输入的内容zxc
+2019-03-07 15:50:12,428-BasePage-INFO-输入的内容123456@qq.com
+2019-03-07 15:50:20,010-BasePage-INFO-输入的内容zx980504
+2019-03-07 15:50:20,808-BasePage-INFO-Success The element was click
+2019-03-07 15:50:26,041-BasePage-ERROR-<app_objects.znbwl_register.Register object at 0x00000000037849E8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:50:26,443-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:50:43,842-BasePage-INFO-Success The element was click
+2019-03-07 15:50:44,494-BasePage-INFO-Success The element was click
+2019-03-07 15:50:46,018-BasePage-INFO-Success The element was click
+2019-03-07 15:50:54,243-BasePage-INFO-输入的内容zxc
+2019-03-07 15:51:02,561-BasePage-INFO-输入的内容123456@qq.com
+2019-03-07 15:51:10,776-BasePage-INFO-输入的内容zx980504
+2019-03-07 15:51:11,644-BasePage-INFO-Success The element was click
+2019-03-07 15:51:16,688-BasePage-ERROR-<app_objects.znbwl_register.Register object at 0x00000000037722B0>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:51:17,085-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:51:31,052-BasePage-INFO-Success The element was click
+2019-03-07 15:51:33,174-BasePage-INFO-Success The element was click
+2019-03-07 15:51:42,523-BasePage-INFO-输入的内容805135162@qq.com
+2019-03-07 15:51:50,205-BasePage-INFO-输入的内容zx980504
+2019-03-07 15:51:51,004-BasePage-INFO-Success The element was click
+2019-03-07 15:51:53,230-BasePage-INFO-找到的文本智能备忘录
+2019-03-07 15:51:53,940-BasePage-INFO-Success The element was click
+2019-03-07 15:51:55,842-BasePage-INFO-Success The element was click
+2019-03-07 15:51:57,611-BasePage-INFO-Success The element was click
+2019-03-07 15:52:11,734-BasePage-INFO-Success The element was click
+2019-03-07 15:52:13,877-BasePage-INFO-Success The element was click
+2019-03-07 15:52:23,765-BasePage-INFO-输入的内容80513516562@qq.com
+2019-03-07 15:52:31,524-BasePage-INFO-输入的内容zx980504
+2019-03-07 15:52:32,308-BasePage-INFO-Success The element was click
+2019-03-07 15:52:33,056-BasePage-INFO-找到的文本云平台登录
+2019-03-07 15:52:48,452-BasePage-INFO-Success The element was click
+2019-03-07 15:52:50,506-BasePage-INFO-Success The element was click
+2019-03-07 15:52:51,877-BasePage-INFO-找到的文本云平台登录
+2019-03-07 15:52:57,154-BasePage-ERROR-<app_objects.znbwl_alter.Alter object at 0x00000000037846A0>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-07 15:52:57,558-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:52:57,558-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 15:53:04,681-BasePage-INFO-输入的内容zx980504
+2019-03-07 15:53:05,503-BasePage-INFO-Success The element was click
+2019-03-07 15:53:06,507-BasePage-INFO-找到的文本云平台登录
+2019-03-07 15:53:17,734-BasePage-INFO-Success The element was click
+2019-03-07 15:53:19,557-BasePage-INFO-Success The element was click
+2019-03-07 15:53:21,496-BasePage-INFO-找到的文本添加备忘信息
+2019-03-07 15:53:21,655-BasePage-INFO-Success The element was click
+2019-03-07 15:53:29,677-BasePage-INFO-输入的内容donghao
+2019-03-07 15:53:30,552-BasePage-INFO-Success The element was click
+2019-03-07 15:53:35,980-BasePage-ERROR-<app_objects.znbwl_add_text.Add_text object at 0x00000000037849E8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menuAdd')元素
+2019-03-07 15:53:36,364-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:53:36,364-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 15:53:40,460-BasePage-INFO-找到的文本添加备忘信息
+2019-03-07 15:53:43,765-BasePage-INFO-Success The element was click
+2019-03-07 15:54:05,644-BasePage-ERROR-Failed to type in input box with Message: An element could not be located on the page using the given search parameters.
+
+2019-03-07 15:54:11,075-BasePage-ERROR-<app_objects.znbwl_add_text.Add_text object at 0x00000000037849E8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/quick_add')元素
+2019-03-07 15:54:11,498-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:54:11,498-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 15:54:23,334-BasePage-INFO-Success The element was click
+2019-03-07 15:54:27,601-BasePage-INFO-Success The element was click
+2019-03-07 15:54:36,125-BasePage-INFO-输入的内容111
+2019-03-07 15:54:52,603-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x00000000021E7F60>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/note_title')元素
+2019-03-07 15:54:53,020-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:54:54,042-BasePage-INFO-long_press success
+2019-03-07 15:54:59,557-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x00000000021E7F60>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menu_sort')元素
+2019-03-07 15:55:00,018-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:55:00,018-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 15:55:00,507-BasePage-INFO-拖动元素成功
+2019-03-07 15:55:09,014-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x00000000021E7F60>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/toolbar_ok')元素
+2019-03-07 15:55:09,473-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:55:09,473-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 15:55:21,352-BasePage-INFO-long_press success
+2019-03-07 15:55:22,319-BasePage-INFO-Success The element was click
+2019-03-07 15:55:23,606-BasePage-INFO-Success The element was click
+2019-03-07 15:55:24,754-BasePage-INFO-Success The element was click
+2019-03-07 15:55:25,435-BasePage-INFO-找到的文本归档
+2019-03-07 15:55:28,707-BasePage-INFO-滑动成功
+2019-03-07 15:55:33,961-BasePage-INFO-Success The element was click
+2019-03-07 15:55:45,688-BasePage-INFO-long_press success
+2019-03-07 15:55:46,967-BasePage-INFO-Success The element was click
+2019-03-07 15:55:47,824-BasePage-INFO-Success The element was click
+2019-03-07 15:55:49,875-BasePage-INFO-Success The element was click
+2019-03-07 15:55:51,705-BasePage-INFO-找到的文本清空回收站
+2019-03-07 15:55:52,036-BasePage-INFO-Success The element was click
+2019-03-07 15:55:53,507-BasePage-INFO-Success The element was click

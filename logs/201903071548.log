@@ -1,0 +1,15 @@
+2019-03-07 15:48:35,942-BasePage-INFO-Success The element was click
+2019-03-07 15:48:38,027-BasePage-INFO-Success The element was click
+2019-03-07 15:48:43,271-BasePage-ERROR-<app_objects.znbwl_add_text.Add_text object at 0x0000000003610208>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:48:43,633-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 15:49:00,907-BasePage-INFO-Success The element was click
+2019-03-07 15:49:02,973-BasePage-INFO-Success The element was click
+2019-03-07 15:49:04,831-BasePage-INFO-找到的文本添加备忘信息
+2019-03-07 15:49:05,071-BasePage-INFO-Success The element was click
+2019-03-07 15:49:13,230-BasePage-INFO-输入的内容donghao
+2019-03-07 15:49:14,150-BasePage-INFO-Success The element was click
+2019-03-07 15:49:15,915-BasePage-INFO-Success The element was click
+2019-03-07 15:49:16,978-BasePage-INFO-找到的文本添加备忘信息
+2019-03-07 15:49:17,153-BasePage-INFO-Success The element was click
+2019-03-07 15:49:24,936-BasePage-INFO-输入的内容sdadas
+2019-03-07 15:49:25,801-BasePage-INFO-Success The element was click

@@ -1,0 +1,4 @@
+2019-03-07 15:47:50,565-BasePage-INFO-Success The element was click
+2019-03-07 15:47:52,240-BasePage-INFO-Success The element was click
+2019-03-07 15:47:57,738-BasePage-ERROR-<app_objects.znbwl_add_text.Add_text object at 0x000000000363A550>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:47:58,194-BasePage-INFO-Had take screenshot and save to folder:/ screenshots

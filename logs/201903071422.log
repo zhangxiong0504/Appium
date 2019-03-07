@@ -1,0 +1,15 @@
+2019-03-07 14:22:12,097-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x0000000003671DD8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/note_title')元素
+2019-03-07 14:22:12,448-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:22:13,465-BasePage-INFO-long_press success
+2019-03-07 14:22:13,515-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x0000000003671DD8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menu_sort')元素
+2019-03-07 14:22:13,854-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:22:13,854-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 14:22:13,854-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/sortBtn')
+2019-03-07 14:22:41,468-BasePage-INFO-long_press success
+2019-03-07 14:22:42,549-BasePage-INFO-Success The element was click
+2019-03-07 14:22:42,549-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/sortBtn')
+2019-03-07 14:22:46,350-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/note_time')
+2019-03-07 14:22:49,027-BasePage-INFO-移动成功
+2019-03-07 14:22:52,140-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x0000000003651DD8>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/toolbar_ok')元素
+2019-03-07 14:22:52,496-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:22:52,496-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'

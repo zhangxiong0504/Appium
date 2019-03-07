@@ -1,0 +1,5 @@
+2019-03-07 14:16:01,533-BasePage-ERROR-long_press failure
+2019-03-07 14:16:01,798-BasePage-ERROR-<app_objects.znbwl_sort.Sort object at 0x0000000003651D68>页面中找不到('id', 'com.pdswp.su.smartcalendar:id/menu_sort')元素
+2019-03-07 14:16:02,246-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-07 14:16:02,246-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-07 14:16:02,246-BasePage-INFO-找到页面元素--('id', 'com.pdswp.su.smartcalendar:id/sortBtn')
